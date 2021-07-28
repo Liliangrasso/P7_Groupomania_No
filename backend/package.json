@@ -1,0 +1,23 @@
+{
+  "name": "backend-groupomania",
+  "version": "1.0.0",
+  "description": "Serveur HTTP Pour Groupomania",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Liliangrasso/P7_Groupomania.git"
+  },
+  "author": "Grasso Lilian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Liliangrasso/P7_Groupomania/issues"
+  },
+  "homepage": "https://github.com/Liliangrasso/P7_Groupomania#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
